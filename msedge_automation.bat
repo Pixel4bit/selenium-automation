@@ -1,0 +1,1 @@
+cd "C:\Program Files (x86)\Microsoft\Edge\Application\" & msedge.exe --remote-debugging-port=6969 --user-data-dir="C:\Users\pianxd\Documents\Python\automation with selenium\edgedata"

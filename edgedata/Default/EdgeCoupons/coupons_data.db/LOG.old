@@ -1,0 +1,15 @@
+2024/06/20-14:37:25.068 2988 Reusing MANIFEST C:\Users\pianxd\Documents\Python\automation with selenium\edgedata\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/06/20-14:37:25.069 2988 Recovering log #224
+2024/06/20-14:37:25.069 2988 Reusing old log C:\Users\pianxd\Documents\Python\automation with selenium\edgedata\Default\EdgeCoupons/coupons_data.db/000224.log 
+2024/06/20-14:37:25.479 1ac4 Level-0 table #228: started
+2024/06/20-14:37:25.495 1ac4 Level-0 table #228: 855284 bytes OK
+2024/06/20-14:37:25.498 1ac4 Delete type=0 #224
+2024/06/20-14:37:25.499 1ac4 Compacting 4@0 + 1@1 files
+2024/06/20-14:37:25.507 1ac4 Generated table #229@0: 4 keys, 855191 bytes
+2024/06/20-14:37:25.507 1ac4 Compacted 4@0 + 1@1 files => 855191 bytes
+2024/06/20-14:37:25.512 1ac4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/20-14:37:25.512 1ac4 Delete type=2 #216
+2024/06/20-14:37:25.512 1ac4 Delete type=2 #219
+2024/06/20-14:37:25.512 1ac4 Delete type=2 #222
+2024/06/20-14:37:25.512 1ac4 Delete type=2 #225
+2024/06/20-14:37:25.512 1ac4 Delete type=2 #228
